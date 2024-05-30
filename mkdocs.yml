@@ -1,0 +1,12 @@
+site_name: I don't know
+
+nav:
+  - Úvod: 'index.md'
+  - Maturita ČJ: 'maturita.md'
+  - WA 10.11.: 'wa-10.11.md'
+
+theme:
+  name: terminal
+
+extra_css:
+  - style.css

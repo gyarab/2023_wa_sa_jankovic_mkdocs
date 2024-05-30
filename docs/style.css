@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(236, 245, 240);
+    color: rgb(48, 123, 198);
+}
+:root {
+    --secondary-color: rgb(255, 0, 0);
+    --font-color: rgb(59, 153, 208);
+    --primary-color:rgb(0, 0, 0);
+    --code-bg-color: rgb(255, 255, 255);
+}
